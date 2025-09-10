@@ -59,4 +59,4 @@ The top 5 processes by memory usage are :
 
 📂 Project Repository
 
-🔗 Project URL: https://github.com/Fardin4135/Devops-basic-projects
+🔗 Project URL: https://roadmap.sh/projects/server-stats
