@@ -22,7 +22,13 @@ Standard Linux utilities: top, free, df, ps, awk, sed, grep
 
 🚀 How to Run
 
-Open the script in vim (already done, but if needed again):
+Clone the repository:
+
+git clone https://github.com/Fardin4135/Devops-basic-projects.git
+cd Devops-basic-projects
+
+
+Open the script in vim (if you want to edit):
 
 vim server-stats.sh
 
@@ -50,3 +56,7 @@ The top 5 processes by cpu usage are :
 The top 5 processes by memory usage are :
   PID  PPID CMD              %MEM %CPU
   ...
+
+📂 Project Repository
+
+🔗 DevOps Basic Projects - GitHub
