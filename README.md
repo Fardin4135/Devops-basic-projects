@@ -55,4 +55,8 @@ The top 5 processes by cpu usage are :
   ...
 The top 5 processes by memory usage are :
   PID  PPID CMD              %MEM %CPU
+  ...
 
+📂 Project Repository
+
+🔗 Project URL: https://github.com/Fardin4135/Devops-basic-projects
